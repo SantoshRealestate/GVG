@@ -1,3 +1,96 @@
-<h2>Grand Vault project</h2> 
 
-GVG under construction...
+GrandVaultGroup
+
+
+Website Design Document 
+
+
+Table of Contents:
+
+Revision History:
+Abbreviations:
+Description:
+User Accounts:
+Administering user accounts:
+General Layout:
+Agent Listing and their details 
+Message Board:
+Newsletters:
+Customer support via chat interface:
+Customer Support via e-mail:
+‘About Us’ Page:
+
+
+
+
+
+
+Revision History:
+
+Date
+Author
+Comments
+Version
+04 Jun 2015
+Rajesh Avvaru/Santosh
+Initial Draft
+1.0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blue - Completed
+Red - Need Clarification
+Green - Work in Progress
+Black - Not Yet Started
+Yellow - Start working only when everything else is complete
+
+
+1. Abbreviations:
+	GVG:             Grand Vault Group
+                       	Porperty information
+		
+2. Description:
+This document describes the high level design of TM Phase 1. Android app design for the same will be provided in a separate document and this document will act as reference to android app design document
+3. User Accounts:
+TM(TradersMarket) shall support signup/maintain/deletion of user accounts
+
+Following Mandatory fields shall be supported during account signup
+User Name (First Name & Last Name)
+Email id for identification and also as login id for user account.
+Password
+
+
+4. General Layout:
+General layout applies to every page in the TM website
+
+popups shall be shown
+
+advertisements
+Mobile/ Tablet friendly
+Shall support IE, Chrome, Safari
+Layout design shall match with the android app design
+5. Agent Listing and their details 
+6. Message Board:
+                    Live chat
+7. Newsletters:
+Users shall be allowed to sign up for newsletters
+Provision to send newsletter from the web interface or by email to the subscribed users. What is the best way to send newsletters and for any communication to all users. Say website will be down for maintenance. Etc..,
+8. Customer support via chat interface:
+TM shall support chat facility with customer service
+To initiate a chat request, user may not be be required to create user account
+Agent who responds to chat request, shall be of administrative user account
+9. Customer Support via e-mail:
+Provision to send email message through customer support link from homepage
+
+10. ‘About Us’ Page:
+About Us page shall contain the profile details of management team. It might include a single photograph and description of the team member. Details will be communicated in a separate email.
