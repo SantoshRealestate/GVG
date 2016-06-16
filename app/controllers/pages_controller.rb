@@ -37,4 +37,7 @@ class PagesController < ApplicationController
 
   def referrals
   end
+  def main_page
+    
+  end
 end

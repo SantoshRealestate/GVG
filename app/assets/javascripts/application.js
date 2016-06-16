@@ -13,3 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+//= require jquery_ujs
+//= require jquery-ui
+//= require gmaps-auto-complete
+
+handler = Gmaps.build('Google');
+handler.buildMap({ internal: {id: 'basic_map' }});
